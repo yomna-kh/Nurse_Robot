@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BetterButton.qml</file>
+        <file>LayoutSection.qml</file>
+        <file>patient2.png</file>
+        <file>patients.png</file>
+        <file>4-hospital-hallway-allan-swart.jpg</file>
+        <file>nurse2.jpg</file>
+        <file>login.jpg</file>
+        <file>background.jpg</file>
+        <file>white.jpg</file>
+    </qresource>
+</RCC>
